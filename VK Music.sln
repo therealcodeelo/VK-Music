@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VK Music", "VK Music.csproj", "{B6C9C073-CE40-41FB-9198-C575821247CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6C9C073-CE40-41FB-9198-C575821247CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C9C073-CE40-41FB-9198-C575821247CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C9C073-CE40-41FB-9198-C575821247CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C9C073-CE40-41FB-9198-C575821247CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB53455A-7B76-4945-B9C6-58E4E9DDA431}
+	EndGlobalSection
+EndGlobal
